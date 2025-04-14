@@ -1,7 +1,6 @@
 #### Hi there 👋
 I am a software engineer focusing on backend development.
 
-<!--
 #### 🛠️ Skills I have used before ...
 ##### Language
 <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
@@ -21,9 +20,8 @@ I am a software engineer focusing on backend development.
 ##### Frontend
 <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
--->
 
-#### 🌱 I’m currently learning ...
+#### 🌱 I’m currently learning Java and Spring for backend web development
 <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /></a>
 
